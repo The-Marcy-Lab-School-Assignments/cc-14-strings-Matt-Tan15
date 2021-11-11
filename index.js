@@ -9,6 +9,6 @@ function stripUpperCase(str) {
     return newString;
 }
 
-console.log(stripUpperCase('Hello!')); // 'ello!')
+console.log(stripUpperCase('Hello!')); // 'ello!'
 console.log(stripUpperCase("SevenEleven")); // 'evenleven'
 console.log(stripUpperCase("Don't play with Me!")); // 'ont play with e!'
